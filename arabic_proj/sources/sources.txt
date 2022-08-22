@@ -1,0 +1,5 @@
+reading a file:
+https://www.w3schools.com/python/python_file_open.asp
+https://www.pythonforbeginners.com/files/the-fastest-way-to-split-a-text-file-using-python
+ basics of LDA:
+ https://towardsdatascience.com/end-to-end-topic-modeling-in-python-latent-dirichlet-allocation-lda-35ce4ed6b3e0
